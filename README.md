@@ -3,8 +3,8 @@
   <h1>OVRA</h1>
   <p><strong>Your music. Your rhythm. Your way.</strong></p>
   <p>A free, intuitive, and customizable music experience for Windows.</p>
-  <a href="https://github.com/ZyKzinDEV/ovra-releases/releases/latest/download/OVRA-Setup.exe"><img src="https://img.shields.io/badge/Download_OVRA-8957E5?style=for-the-badge&logo=windows&logoColor=white" alt="Download OVRA" /></a>
-  <a href="https://github.com/ZyKzinDEV/ovra-releases/releases"><img src="https://img.shields.io/badge/View_Releases-21262D?style=for-the-badge&logo=github&logoColor=white" alt="View Releases" /></a>
+  <a href="https://github.com/ovra-music/ovra-releases/releases/latest/download/OVRA-Setup.exe"><img src="https://img.shields.io/badge/Download_OVRA-8957E5?style=for-the-badge&logo=windows&logoColor=white" alt="Download OVRA" /></a>
+  <a href="https://github.com/ovra-music/ovra-releases/releases"><img src="https://img.shields.io/badge/View_Releases-21262D?style=for-the-badge&logo=github&logoColor=white" alt="View Releases" /></a>
   <br /><br />
   <img src="https://img.shields.io/github/v/release/ZyKzinDEV/ovra-releases?style=flat-square&color=8957E5&label=Version" alt="Version" />
   <img src="https://img.shields.io/github/downloads/ZyKzinDEV/ovra-releases/total?style=flat-square&color=8957E5&label=Downloads" alt="Downloads" />

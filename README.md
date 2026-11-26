@@ -6,8 +6,8 @@
   <a href="https://github.com/ZyKzinDEV/ovra-releases/releases/latest/download/OVRA-Setup.exe"><img src="https://img.shields.io/badge/Descarregar_OVRA-8957E5?style=for-the-badge&logo=windows&logoColor=white" alt="Descarregar OVRA" /></a>
   <a href="https://github.com/ZyKzinDEV/ovra-releases/releases"><img src="https://img.shields.io/badge/Ver_vers%C3%B5es-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Ver versões" /></a>
   <br /><br />
-  <img src="https://img.shields.io/github/v/release/ZyKzinDEV/ovra-releases?style=flat-square&color=8957E5&label=Vers%C3%A3o" alt="Versão" />
-  <img src="https://img.shields.io/github/downloads/ZyKzinDEV/ovra-releases/total?style=flat-square&color=8957E5&label=Downloads" alt="Downloads" />
+  <img src="https://img.shields.io/github/v/release/ovra-music/ovra-releases?style=flat-square&color=8957E5&label=Vers%C3%A3o" alt="Versão" />
+  <img src="https://img.shields.io/github/downloads/ovra-music/ovra-releases/total?style=flat-square&color=8957E5&label=Downloads" alt="Downloads" />
   <img src="https://img.shields.io/badge/Plataforma-Windows-8957E5?style=flat-square" alt="Windows" />
   <img src="https://img.shields.io/badge/Pre%C3%A7o-Gratuito-8957E5?style=flat-square" alt="Gratuito" />
 </div>

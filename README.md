@@ -1,62 +1,66 @@
 <div align="center">
   <img src="./ovra-mark.png" width="112" alt="OVRA logo" />
   <h1>OVRA</h1>
-  <p><strong>A tua música. O teu ritmo. À tua maneira.</strong></p>
-  <p>Uma experiência de música para Windows, livre, intuitiva e personalizável.</p>
-  <a href="https://github.com/ZyKzinDEV/ovra-releases/releases/latest/download/OVRA-Setup.exe"><img src="https://img.shields.io/badge/Descarregar_OVRA-8957E5?style=for-the-badge&logo=windows&logoColor=white" alt="Descarregar OVRA" /></a>
-  <a href="https://github.com/ZyKzinDEV/ovra-releases/releases"><img src="https://img.shields.io/badge/Ver_vers%C3%B5es-21262D?style=for-the-badge&logo=github&logoColor=white" alt="Ver versões" /></a>
+  <p><strong>Your music. Your rhythm. Your way.</strong></p>
+  <p>A free, intuitive, and customizable music experience for Windows.</p>
+  <a href="https://github.com/ZyKzinDEV/ovra-releases/releases/latest/download/OVRA-Setup.exe"><img src="https://img.shields.io/badge/Download_OVRA-8957E5?style=for-the-badge&logo=windows&logoColor=white" alt="Download OVRA" /></a>
+  <a href="https://github.com/ZyKzinDEV/ovra-releases/releases"><img src="https://img.shields.io/badge/View_Releases-21262D?style=for-the-badge&logo=github&logoColor=white" alt="View Releases" /></a>
   <br /><br />
-  <img src="https://img.shields.io/github/v/release/ovra-music/ovra-releases?style=flat-square&color=8957E5&label=Vers%C3%A3o" alt="Versão" />
-  <img src="https://img.shields.io/github/downloads/ovra-music/ovra-releases/total?style=flat-square&color=8957E5&label=Downloads" alt="Downloads" />
-  <img src="https://img.shields.io/badge/Plataforma-Windows-8957E5?style=flat-square" alt="Windows" />
-  <img src="https://img.shields.io/badge/Pre%C3%A7o-Gratuito-8957E5?style=flat-square" alt="Gratuito" />
+  <img src="https://img.shields.io/github/v/release/ZyKzinDEV/ovra-releases?style=flat-square&color=8957E5&label=Version" alt="Version" />
+  <img src="https://img.shields.io/github/downloads/ZyKzinDEV/ovra-releases/total?style=flat-square&color=8957E5&label=Downloads" alt="Downloads" />
+  <img src="https://img.shields.io/badge/Platform-Windows-8957E5?style=flat-square" alt="Windows" />
+  <img src="https://img.shields.io/badge/Price-Free-8957E5?style=flat-square" alt="Free" />
 </div>
 
 ---
 
-## Música sem complicações
+## Music Without Limits
 
-O **OVRA** é uma aplicação de música para Windows que combina reprodução, descoberta e personalização numa experiência única. Organiza as tuas playlists, descobre novas faixas e transforma a forma como ouves música, sem subscrição do OVRA.
+**OVRA** is a music application for Windows that brings playback, discovery, and personalization together in one seamless experience.
 
-## Funcionalidades
+Organize your playlists, discover new tracks, and transform the way you listen to music — without an OVRA subscription.
 
-| | Funcionalidade | Descrição |
+## Features
+
+| | Feature | Description |
 | :---: | :--- | :--- |
-| 🎧 | **A tua biblioteca** | Organiza playlists, favoritos e o teu histórico de reprodução. |
-| ✨ | **Música do dia** | Descobre uma sugestão diária baseada nos teus gostos. |
-| 🎙️ | **Letras e visualizador** | Desfruta de letras em estilo karaoke e efeitos visuais em ecrã inteiro. |
-| ⚡ | **Modos de audição** | Alterna entre Foco, Treino e Festa. |
-| 📊 | **OVRA Wrapped** | Cria e partilha resumos dos teus hábitos de audição. |
-| 🤝 | **Jam por código** | Partilha a tua fila de reprodução com amigos. |
-| 💜 | **Duelo de gostos** | Compara os teus gostos musicais e cria playlists com amigos. |
-| 🔄 | **Atualizações integradas** | Recebe novas versões diretamente na aplicação. |
+| 🎧 | **Your Library** | Organize your playlists, favorites, and listening history. |
+| ✨ | **Song of the Day** | Discover a daily music recommendation based on your taste. |
+| 🎙️ | **Lyrics & Visualizer** | Enjoy karaoke-style lyrics and immersive fullscreen visual effects. |
+| ⚡ | **Listening Modes** | Switch between Focus, Workout, and Party modes. |
+| 📊 | **OVRA Wrapped** | Generate and share personalized summaries of your listening habits. |
+| 🤝 | **Jam Sessions** | Share your playback queue with friends using a session code. |
+| 💜 | **Music Taste Duel** | Compare your music tastes and create playlists with friends. |
+| 🔄 | **Built-in Updates** | Receive new versions directly within the application. |
 
-## Instalação
+## Installation
 
-1. [Descarrega o instalador oficial](https://github.com/ZyKzinDEV/ovra-releases/releases/latest/download/OVRA-Setup.exe).
-2. Executa o ficheiro `OVRA-Setup.exe` e segue as instruções.
-3. Abre o OVRA e começa a ouvir música.
+1. [Download the official installer](https://github.com/ZyKzinDEV/ovra-releases/releases/latest/download/OVRA-Setup.exe).
+2. Run `OVRA-Setup.exe` and follow the installation instructions.
+3. Launch OVRA and start listening.
 
-A instalação é feita para o teu utilizador do Windows, sem necessidade de permissões de administrador.
+OVRA is installed for your Windows user account, with no administrator privileges required.
 
-## Atualizações
+## Updates
 
-O OVRA verifica automaticamente a existência de novas versões. Também podes procurar atualizações manualmente em **Definições → Ferramentas → Atualizar o OVRA**.
+OVRA automatically checks for new releases. You can also manually check for updates by navigating to **Settings → Tools → Update OVRA**.
 
-As atualizações são verificadas através de SHA-256 e de uma assinatura digital RSA antes de serem instaladas. As tuas playlists e definições são preservadas ao atualizar.
+All updates are verified using SHA-256 checksums and RSA digital signatures before installation. Your playlists and settings are preserved throughout the update process.
 
-Consulta o [histórico de versões](https://github.com/ZyKzinDEV/ovra-releases/releases) para conhecer as novidades e correções.
+Visit the [release history](https://github.com/ZyKzinDEV/ovra-releases/releases) to explore new features, improvements, and bug fixes.
 
-## Sobre este repositório
+## About This Repository
 
-Este é o canal oficial de distribuição e atualizações do OVRA. O repositório contém os ficheiros públicos necessários à instalação e atualização da aplicação. O código-fonte do OVRA não é distribuído neste repositório.
+This repository serves as the official distribution and update channel for OVRA.
 
-Para reportar um problema ou sugerir uma funcionalidade, utiliza a secção [Issues](https://github.com/ZyKzinDEV/ovra-releases/issues).
+It contains the publicly available files required to install and update the application. OVRA's source code is proprietary and is not distributed through this repository.
+
+To report a bug, request a feature, or provide feedback, please visit the [Issues](https://github.com/ZyKzinDEV/ovra-releases/issues) section.
 
 ---
 
 <div align="center">
   <strong>OVRA</strong><br />
-  <sub>Para quem vive ao ritmo da música.</sub><br /><br />
-  <sub>Desenvolvido por <a href="https://github.com/ZyKzinDEV">ZyKzinDEV</a>.</sub>
+  <sub>For those who live and breathe music.</sub><br /><br />
+  <sub>Developed by <a href="https://github.com/ZyKzinDEV">ZyKzinDEV</a>.</sub>
 </div>

@@ -99,7 +99,7 @@ No OVRA subscription. Just a music experience built around the way you listen.
 
 <div align="center">
   <br />
-  <a href="https://github.com/ZyKzinDEV/ovra-releases/releases/latest/download/OVRA-Setup.exe"><img src="https://img.shields.io/badge/Get_OVRA-8957E5?style=for-the-badge&logo=windows&logoColor=white" alt="Get OVRA" /></a>
+  <a href="https://github.com/ovra-music/ovra-releases/releases/latest/download/OVRA-Setup.exe"><img src="https://img.shields.io/badge/Get_OVRA-8957E5?style=for-the-badge&logo=windows&logoColor=white" alt="Get OVRA" /></a>
   <br />
   <sub>Free for Windows · No administrator privileges required</sub>
 </div>
@@ -116,15 +116,15 @@ To check for updates yourself, open **Settings → Tools → Update OVRA**.
 | **RSA digital signatures** | Verifies the authenticity of updates before installation. |
 | **Data preservation** | Keeps your playlists and settings intact when updating. |
 
-Explore the [release history](https://github.com/ZyKzinDEV/ovra-releases/releases) for new features, improvements, and bug fixes.
+Explore the [release history](https://github.com/ovra-music/ovra-releases/releases) for new features, improvements, and bug fixes.
 
 ## Feedback
 
 OVRA evolves with its community. Found a bug, have an idea, or want to suggest an improvement? Your feedback is welcome.
 
 <div align="center">
-  <a href="https://github.com/ZyKzinDEV/ovra-releases/issues/new"><img src="https://img.shields.io/badge/Report_a_Bug-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Report a bug" /></a>
-  <a href="https://github.com/ZyKzinDEV/ovra-releases/issues/new"><img src="https://img.shields.io/badge/Suggest_a_Feature-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="Suggest a feature" /></a>
+  <a href="https://github.com/ovra-music/ovra-releases/issues/new"><img src="https://img.shields.io/badge/Report_a_Bug-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Report a bug" /></a>
+  <a href="https://github.com/ovra-music/ovra-releases/issues/new"><img src="https://img.shields.io/badge/Suggest_a_Feature-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="Suggest a feature" /></a>
 </div>
 
 ## About This Repository
@@ -139,7 +139,7 @@ The OVRA source code is not distributed through this repository.
   <img src="./ovra-mark.png" width="44" alt="OVRA" />
   <h3>Feel every beat.</h3>
   <p><sub>Made for people who live through music.</sub></p>
-  <sub>Designed and developed by <a href="https://github.com/ZyKzinDEV">ZyKzinDEV</a>.</sub>
+  <sub>Designed and developed by <a href="https://github.com/ovra-music">ovra-music</a>.</sub>
   <br /><br />
-  <a href="https://github.com/ZyKzinDEV/ovra-releases/stargazers"><img src="https://img.shields.io/github/stars/ZyKzinDEV/ovra-releases?style=social" alt="Star OVRA on GitHub" /></a>
+  <a href="https://github.com/ovra-music/ovra-releases/stargazers"><img src="https://img.shields.io/github/stars/ovra-music/ovra-releases?style=social" alt="Star OVRA on GitHub" /></a>
 </div>

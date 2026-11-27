@@ -36,11 +36,10 @@ OVRA brings playback, discovery, personalization, and social listening together 
 
 No OVRA subscription. Just a music experience built around the way you listen.
 
-<!-- Optional: add a real application screenshot here once it is uploaded to this repository.
+
 <div align="center">
   <img src="./assets/ovra-preview.png" alt="OVRA desktop application" width="100%" />
 </div>
--->
 
 ## Features
 

@@ -38,7 +38,7 @@ No OVRA subscription. Just a music experience built around the way you listen.
 
 
 <div align="center">
-  <img src="./assets/ovra-preview.png" alt="OVRA desktop application" width="100%" />
+  <img src="./ovra-preview.png" alt="OVRA desktop application" width="100%" />
 </div>
 
 ## Features
